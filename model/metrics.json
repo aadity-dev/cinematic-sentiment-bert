@@ -1,0 +1,22 @@
+{
+  "model": "distilbert-base-uncased",
+  "epochs": 3,
+  "batch_size": 16,
+  "max_length": 256,
+  "learning_rate": 2e-05,
+  "test_accuracy": 91.22,
+  "test_f1": 91.24,
+  "test_precision": 91.01,
+  "test_recall": 91.47,
+  "training_time_minutes": 110.1,
+  "confusion_matrix": [
+    [
+      11370,
+      1130
+    ],
+    [
+      1066,
+      11434
+    ]
+  ]
+}
