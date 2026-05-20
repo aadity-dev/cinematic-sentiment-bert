@@ -69,6 +69,8 @@ pip install -r requirements.txt
 streamlit run app/app.py
 ```
 
+https://huggingface.co/spaces/Adit-11/bert-sentiment-analyzer
+
 ## 📝 License
 
 MIT
